@@ -1,0 +1,3 @@
+no boards on completed arenas
+need to remove unused imports/variables/code
+need comments/java doc
